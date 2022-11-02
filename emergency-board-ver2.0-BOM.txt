@@ -1,0 +1,43 @@
+Emergency Board ver2.0 BOM
+
+Part Value           Device          Package         Description                            AVAILABILITY DESCRIPTION MF    MP        PACKAGE                POPULARITY PRICE SPICEPREFIX
+C4   100n            C-EUC0603       C0603           CAPACITOR, European symbol                                                                             73               C          
+C7   100p            C-EUC0603       C0603           CAPACITOR, European symbol                                                                             73               C          
+C8   100n            C-EUC0603       C0603           CAPACITOR, European symbol                                                                             73               C          
+C19  1u              C-EUC0603       C0603           CAPACITOR, European symbol                                                                             73               C          
+C20  1u              C-EUC0603       C0603           CAPACITOR, European symbol                                                                             73               C          
+C21  100n            C-EUC0603       C0603           CAPACITOR, European symbol                                                                                                         
+C22  47u             CPOL-EUE2.5-5   E2,5-5          POLARIZED CAPACITOR, European symbol                                                                   16               C          
+D3   PMEG6010CEJ,115 PMEG6010CEJ,115 SOD323_ST       Schottky barrier diode                                                                                 7                           
+F1                   R-EU_R1206      R1206           RESISTOR, European symbol                                                                              41               R          
+H1   MOUNT-HOLE3.2   MOUNT-HOLE3.2   3,2             MOUNTING HOLE with drill center marker                                                                 7                           
+H2   MOUNT-HOLE3.2   MOUNT-HOLE3.2   3,2             MOUNTING HOLE with drill center marker                                                                 7                           
+H3   MOUNT-HOLE3.2   MOUNT-HOLE3.2   3,2             MOUNTING HOLE with drill center marker                                                                 7                           
+H4   MOUNT-HOLE3.2   MOUNT-HOLE3.2   3,2             MOUNTING HOLE with drill center marker                                                                 7                           
+J1   8P8C            8P8C            8P8C                                                                                                                                               
+J6   MA02-2          MA02-2          MA02-2W                                                                                                                                            
+L2   L5852           L5852           L5852                                                                                                                                              
+Q2   BUZ11BH         BUZ11BH         TO220BH         N-CHANNEL MOS FET                                                                                      0                           
+R1   0               R-EU_R0603      R0603           RESISTOR, European symbol                                                                              70               R          
+R2   100R            R-US_R0603      R0603           RESISTOR, American symbol                                                                              77               R          
+R3   100k            R-US_R0603      R0603           RESISTOR, American symbol                                                                              77               R          
+R4   0               R-EU_R0603      R0603           RESISTOR, European symbol                                                                              70               R          
+R5   0               R-EU_R0603      R0603           RESISTOR, European symbol                                                                              70               R          
+R6   0               R-EU_R0603      R0603           RESISTOR, European symbol                                                                              70               R          
+R7   0               R-EU_R0603      R0603           RESISTOR, European symbol                                                                              70               R          
+R11  0.68            R-EU_R1206      R1206           RESISTOR, European symbol                                                                              41               R          
+R12  120             R-EU_R0603      R0603           RESISTOR, European symbol                                                                              70               R          
+R18  3.6k            R-EU_R0603      R0603           RESISTOR, European symbol                                                                              70               R          
+R19  1.2k            R-EU_R0603      R0603           RESISTOR, European symbol                                                                              70               R          
+R28  1k              R-EU_R0603      R0603           RESISTOR, European symbol                                                                              70               R          
+R30  1k              R-EU_R0603      R0603           RESISTOR, European symbol                                                                              70               R          
+U$3  XT60PW-F        XT60PW-F        AMASS_XT60PW-F                                         Unavailable              AMASS XT60PW-M  Package Analog Devices            None             
+U$4  XT60PW-F        XT60PW-F        AMASS_XT60PW-F                                         Unavailable              AMASS XT60PW-M  Package Analog Devices            None             
+U$5  XT60PW-F        XT60PW-F        AMASS_XT60PW-F                                         Unavailable              AMASS XT60PW-M  Package Analog Devices            None             
+U$11 XT90PW_M        XT90PW_M        AMASS_XT90PW_M                                                                                                                                     
+U$12 XT60PW-F        XT60PW-F        AMASS_XT60PW-F                                         Unavailable              AMASS XT60PW-M  Package Analog Devices            None             
+U1   V23134J1052D642 V23134J1052D642 V23134J1052D642                                                                                                                                    
+U2   V23134J1052D642 V23134J1052D642 V23134J1052D642                                                                                                                                    
+U4   TLP184          TLP184          11-4M1S                                                                                                                                            
+U9   XC6206          XC6206          SOT95P240X110-3                                                                                                                                    
+U10  MC34063AD       MC34063AD       SOIC8                                                                                                                                              
